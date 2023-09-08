@@ -89,3 +89,5 @@ result <- function(val1, val2){
 } 
   
 play_game()
+
+      print("Let's play")
